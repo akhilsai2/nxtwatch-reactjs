@@ -1,0 +1,34 @@
+.icon {
+  width: 30px;
+  height: 30px;
+}
+
+.burger {
+  width: 35px;
+  height: 35px;
+}
+.log {
+  width: 35px;
+  height: 35px;
+}
+.darkIcon {
+  width: 30px;
+  height: 30px;
+  color: white;
+}
+.newColor {
+  color: white;
+}
+.app {
+  width: 25px;
+  height: 25px;
+  color: #606060;
+}
+.link {
+  text-decoration: none;
+}
+.remove {
+  background-color: white;
+  width: 15px;
+  height: 15px;
+}

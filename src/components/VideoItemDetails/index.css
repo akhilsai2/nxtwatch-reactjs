@@ -1,0 +1,26 @@
+.icon {
+  width: 20px;
+  margin-right: 6px;
+  color: #606060;
+}
+.Set {
+  color: #4f46e5;
+}
+.Dis {
+  width: 20px;
+  margin-right: 6px;
+  color: #606060;
+  font-size: 20px;
+}
+.disSet {
+  color: #4f46e5;
+}
+.save {
+  width: 20px;
+  margin-right: 6px;
+  color: #606060;
+  font-size: 20px;
+}
+.saveSet {
+  color: #4f46e5;
+}
